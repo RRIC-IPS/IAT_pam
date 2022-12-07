@@ -15,8 +15,8 @@ define(['pipAPI', 'https://RRIC-IPS.github.io/IAT_pam/IATAPI.js'], function(APIC
     			{image : 'Male3.jpg'}, 
     			{image : 'Male4.jpg'}, 
     			{image : 'Male5.jpg'},
-          {image : 'Male6.jpg'},
-          {image : 'Male7.jpg'},
+          		{image : 'Male6.jpg'},
+         		{image : 'Male7.jpg'},
     			{image : 'Male8.jpg'}
 			], 
 			//Stimulus css (style)
@@ -35,9 +35,10 @@ define(['pipAPI', 'https://RRIC-IPS.github.io/IAT_pam/IATAPI.js'], function(APIC
     			{image : 'Female3.jpg'}, 
     			{image : 'Female4.jpg'}, 
     			{image : 'Female5.jpg'}, 
-          {image : 'Female6.jpg'}, 
-          {image : 'Female7.jpg'}, 
-    			{image : 'Female8.jpg'}			], 
+          		{image : 'Female6.jpg'}, 
+          		{image : 'Female7.jpg'}, 
+    			{image : 'Female8.jpg'}
+			], 
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
 		},	
