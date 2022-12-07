@@ -45,8 +45,8 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 					{word: 'Danny'},
 					{word: 'Franky'},
 					{word: 'Jerome'},
-          {word: 'Kyle'},
-          {word: 'Oscar'},
+          				{word: 'Kyle'},
+          				{word: 'Oscar'},
 					{word: 'Zack'}
 				],
 				//Stimulus css (style)
@@ -65,8 +65,8 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 					{word: 'Eve'},
 					{word: 'Giselle'},
 					{word: 'Ivy'},
-          {word: 'Laura'},
-          {word: 'Naomi'},
+          				{word: 'Laura'},
+          				{word: 'Naomi'},
 					{word: 'Queenie'}
 				],
 				//Stimulus css
